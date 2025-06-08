@@ -8,7 +8,7 @@ This was when it all started.... I was looking into what my next PCB that I shou
 
 I started off trying to find an IC for amplifying... Apparently, that's harder than it seems, since there aren't many available ones for the needed 137MHZ. I ended up going with the MAX2659ELT+T which at that time I though was the right IC. 
 
-![image-20250608160424663](C:\Users\Scooter\AppData\Roaming\Typora\typora-user-images\image-20250608160424663.png)
+![image](https://github.com/user-attachments/assets/a0114017-0397-4400-8471-358103d41259)
 
 (This is what the schematic looked at that time)
 
@@ -16,7 +16,7 @@ I started off trying to find an IC for amplifying... Apparently, that's harder t
 
 After that, I decided I wanted to add the ability to switch between freq to allow other satellite signals to reach the amplifier too, and not just my intended NOAA-19. After a few minutes of wiring it it up, I realized the super small changes in freq bands ie. 1337.1 to 137.9 were too small for me too do at my capabilities, so I had to scratch that.
 
-![image-20250608160820727](C:\Users\Scooter\AppData\Roaming\Typora\typora-user-images\image-20250608160820727.png)
+![image](https://github.com/user-attachments/assets/ecfe8731-8dc5-49f6-a7f1-f60c92b0623c)
 
 (This is what the schematic looked at that time with RF switching)
 
@@ -30,24 +30,24 @@ After de-stressing for a few days, I can back to finish it. I swapped out the ba
 
 
 
-![image-20250608161927714](C:\Users\Scooter\AppData\Roaming\Typora\typora-user-images\image-20250608161927714.png)
+![image](https://github.com/user-attachments/assets/9dac4db9-cef9-4c4c-bd07-385a7fcbbb1b)
 
 (Final schematic. Even though it looks a lot smaller, it took me a long time to find all the correct values, and where everything goes)
 
 
 
-Thank goodness the routing was nice and easy. It took me like an hour or two to route the whole board including being careful for sensitive RF routing and properly ground stitching the board. After checking my routing 9 million times, I finally came to the conclusion that I was done ![yay](C:\Users\scooter\Downloads\yay.gif). No more double checking everything to find it wrong, it's finally done, and we all hope it works first try!!
+Thank goodness the routing was nice and easy. It took me like an hour or two to route the whole board including being careful for sensitive RF routing and properly ground stitching the board. After checking my routing 9 million times, I finally came to the conclusion that I was done! No more double checking everything to find it wrong, it's finally done, and we all hope it works first try!!
 
 
 
 ### Some photos
 
-![image-20250608162320137](C:\Users\Scooter\AppData\Roaming\Typora\typora-user-images\image-20250608162320137.png)
+![image](https://github.com/user-attachments/assets/f9c37f93-744a-4c16-8816-4004f9a91592)
 
 (The final PCB route with ground stitching, not including a ground pour on all 2 layers)
 
 
 
-![image-20250608162417123](C:\Users\Scooter\Roaming\Typora\typora-user-images\image-20250608162417123.png)
+![image](https://github.com/user-attachments/assets/41b08674-415e-472c-8300-dd7b8c5aee94)
 
 (What my PCB will look like with ray-tracing enabled in KiCad)
