@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "noaa.step",
+      "step": "noaa.stl",
       "svg": "",
       "vrml": ""
     },
