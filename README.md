@@ -9,6 +9,8 @@ This PCB + Enclousure is done, but you can view my journal throughout on JOURNAL
 ### Photos!
 ![image](https://github.com/user-attachments/assets/80d4084e-bf28-4b68-84c4-2cd6279873b2)
 
+![image](https://github.com/user-attachments/assets/27fbc394-b672-43b3-8dd4-aa17b8d94472)
+
 ![image](https://github.com/user-attachments/assets/ffee0d81-1b0a-40e3-9a6b-1047efa85b72)
 
 ![image](https://github.com/user-attachments/assets/c382fef4-2d04-46c9-b831-3550ee46f3ff)
